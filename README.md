@@ -1,7 +1,7 @@
 # screenmirror
 This application provides display and control of Android devices connected on USB.
 
-![screenshot](assets/screenshot-debian-600.jpg)
+![screenshot](assets/screenshot.jpg)
 
 # Requirements
 The Android part requires at least API 21 (Android 5.0).
